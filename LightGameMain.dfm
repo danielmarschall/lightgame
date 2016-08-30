@@ -45520,6 +45520,7 @@ object MainForm: TMainForm
     Top = 88
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 0
     OnClick = Panel1Click
   end
@@ -45529,6 +45530,7 @@ object MainForm: TMainForm
     Top = 88
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 1
     OnClick = Panel1Click
   end
@@ -45538,6 +45540,7 @@ object MainForm: TMainForm
     Top = 88
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 2
     OnClick = Panel1Click
   end
@@ -45547,6 +45550,7 @@ object MainForm: TMainForm
     Top = 88
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 3
     OnClick = Panel1Click
   end
@@ -45556,6 +45560,7 @@ object MainForm: TMainForm
     Top = 88
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 4
     OnClick = Panel1Click
   end
@@ -45565,6 +45570,7 @@ object MainForm: TMainForm
     Top = 175
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 5
     OnClick = Panel1Click
   end
@@ -45574,6 +45580,7 @@ object MainForm: TMainForm
     Top = 175
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 6
     OnClick = Panel1Click
   end
@@ -45583,6 +45590,7 @@ object MainForm: TMainForm
     Top = 175
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 7
     OnClick = Panel1Click
   end
@@ -45592,6 +45600,7 @@ object MainForm: TMainForm
     Top = 175
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 8
     OnClick = Panel1Click
   end
@@ -45601,6 +45610,7 @@ object MainForm: TMainForm
     Top = 175
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 9
     OnClick = Panel1Click
   end
@@ -45610,6 +45620,7 @@ object MainForm: TMainForm
     Top = 262
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 10
     OnClick = Panel1Click
   end
@@ -45619,6 +45630,7 @@ object MainForm: TMainForm
     Top = 262
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 11
     OnClick = Panel1Click
   end
@@ -45628,6 +45640,7 @@ object MainForm: TMainForm
     Top = 262
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 12
     OnClick = Panel1Click
   end
@@ -45637,6 +45650,7 @@ object MainForm: TMainForm
     Top = 262
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 13
     OnClick = Panel1Click
   end
@@ -45646,6 +45660,7 @@ object MainForm: TMainForm
     Top = 262
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 14
     OnClick = Panel1Click
   end
@@ -45655,6 +45670,7 @@ object MainForm: TMainForm
     Top = 349
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 15
     OnClick = Panel1Click
   end
@@ -45664,6 +45680,7 @@ object MainForm: TMainForm
     Top = 349
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 16
     OnClick = Panel1Click
   end
@@ -45673,6 +45690,7 @@ object MainForm: TMainForm
     Top = 349
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 17
     OnClick = Panel1Click
   end
@@ -45682,6 +45700,7 @@ object MainForm: TMainForm
     Top = 349
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 18
     OnClick = Panel1Click
   end
@@ -45691,6 +45710,7 @@ object MainForm: TMainForm
     Top = 349
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 19
     OnClick = Panel1Click
   end
@@ -45700,6 +45720,7 @@ object MainForm: TMainForm
     Top = 436
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 20
     OnClick = Panel1Click
   end
@@ -45709,6 +45730,7 @@ object MainForm: TMainForm
     Top = 436
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 21
     OnClick = Panel1Click
   end
@@ -45718,6 +45740,7 @@ object MainForm: TMainForm
     Top = 436
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 22
     OnClick = Panel1Click
   end
@@ -45727,6 +45750,7 @@ object MainForm: TMainForm
     Top = 436
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 23
     OnClick = Panel1Click
   end
@@ -45736,6 +45760,7 @@ object MainForm: TMainForm
     Top = 436
     Width = 81
     Height = 81
+    ParentBackground = False
     TabOrder = 24
     OnClick = Panel1Click
   end

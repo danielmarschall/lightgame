@@ -10,7 +10,7 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, ExtCtrls, StdCtrls, Menus;
+  Dialogs, ExtCtrls, StdCtrls, Menus, System.UITypes;
 
 type
   TMainForm = class(TForm)
