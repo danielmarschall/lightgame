@@ -5,21 +5,21 @@
 AppName=LightGame
 AppVerName=LightGame
 AppVersion=1.0
-AppCopyright=© Copyright 2009 - 2024 ViaThinkSoft.
+AppCopyright=© Copyright 2009 - 2024 ViaThinkSoft
 AppPublisher=ViaThinkSoft
 AppPublisherURL=http://www.viathinksoft.de/
 AppSupportURL=http://www.daniel-marschall.de/
 AppUpdatesURL=http://www.viathinksoft.de/
-DefaultDirName={commonpf}\LightGame
+DefaultDirName={autopf}\LightGame
 DefaultGroupName=LightGame
 UninstallDisplayIcon={app}\LightGame.exe
 VersionInfoCompany=ViaThinkSoft
-VersionInfoCopyright=© Copyright 2009 - 2024 ViaThinkSoft.
+VersionInfoCopyright=© Copyright 2009 - 2024 ViaThinkSoft
 VersionInfoDescription=LightGame Setup
 VersionInfoTextVersion=1.0.0.0
 VersionInfoVersion=1.
+OutputDir=.
 OutputBaseFilename=LightGameSetup
-Compression=zip/9
 ; Configure Sign Tool in InnoSetup at "Tools => Configure Sign Tools" (adjust the path to your SVN repository location)
 ; Name    = sign_single   
 ; Command = "C:\SVN\...\sign_single.bat" $f
@@ -31,7 +31,7 @@ Name: de; MessagesFile: "compiler:Languages\German.isl"
 
 [Files]
 ; Allgemein
-Source: "LightGame.exe"; DestDir: "{app}"
+Source: "LightGame.exe"; DestDir: "{app}"; Flags: ignoreversion signonce
 
 [Folders]
 Name: "{group}\Webseiten"; Languages: de
