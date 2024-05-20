@@ -13,13 +13,11 @@ object MainForm: TMainForm
   Font.Name = 'Tahoma'
   Font.Style = []
   Menu = MainMenu1
-  OldCreateOrder = False
   Position = poScreenCenter
   OnCreate = FormCreate
   DesignSize = (
     795
     669)
-  PixelsPerInch = 96
   TextHeight = 13
   object Image1: TImage
     Left = 0
@@ -45818,14 +45816,14 @@ object MainForm: TMainForm
     end
   end
   object SaveDialog1: TSaveDialog
-    DefaultExt = '.sav'
+    DefaultExt = 'sav'
     Filter = 'Save game (*.sav)|*.sav|All files (*.*)|*.*'
     Options = [ofOverwritePrompt, ofHideReadOnly, ofEnableSizing]
     Left = 720
     Top = 176
   end
   object OpenDialog1: TOpenDialog
-    DefaultExt = '.sav'
+    DefaultExt = 'sav'
     Filter = 'Save game (*.sav)|*.sav|All files (*.*)|*.*'
     Options = [ofHideReadOnly, ofFileMustExist, ofEnableSizing]
     Left = 720
