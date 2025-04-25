@@ -10,4 +10,4 @@ The goal of the puzzle is to switch all the lights off, preferably in as few but
 
 ## Screenshot
 
-![Screenshot](https://www.viathinksoft.com/screenshot/31/Light+Game+Screenshot.png)
+![Screenshot](Screenshot.png)
